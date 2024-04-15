@@ -1,4 +1,10 @@
+pandas
+plotly
+seaborn
+palmerpenguins
 faicons
 shiny
-seaborn
-pandas
+shiny.express
+ipyleaflet
+shinyswatch
+scipy
